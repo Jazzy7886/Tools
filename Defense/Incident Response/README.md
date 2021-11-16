@@ -1,14 +1,21 @@
-### Malware Analysis and Labs
+## Malware Analysis and Labs
 
-## <u>Labs</u>
+### <u>Labs</u>
 
 - https://medium.com/@xNymia/malware-analysis-first-steps-creating-your-lab-21b769fb2a64
 - https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide
 - https://www.malware-traffic-analysis.net/index.html
 - https://cuckoosandbox.org/
-- 
-## <u>Websites</u>
+
+### <u>Websites</u>
 
 - https://malpedia.caad.fkie.fraunhofer.de/families
 - https://www.sandflysecurity.com/
+
+## Azure
+
+### <u>Detecting Lateral Movement</u>
+
+- https://in.security/detecting-lateral-movement-via-winrm-using-kql/
+- https://in.security/what-the-heck-psexec/
 
