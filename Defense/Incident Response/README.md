@@ -19,3 +19,11 @@
 - https://in.security/detecting-lateral-movement-via-winrm-using-kql/
 - https://in.security/what-the-heck-psexec/
 
+## Windows
+- https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+- https://www.forensicfocus.com/articles/hunting-for-attackers-tactics-and-techniques-with-prefetch-files/
+- https://www.malwarearchaeology.com/cheat-sheets
+- https://mikefrobbins.com/2017/05/18/use-powershell-to-determine-if-specific-windows-updates-are-installed-on-remote-servers/
+
+## <u>Mozilla Firefox Forensics</u>
+- https://www.acquireforensics.com/services/tech/mozilla-firefox.html
