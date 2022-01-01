@@ -19,6 +19,11 @@
 - https://in.security/detecting-lateral-movement-via-winrm-using-kql/
 - https://in.security/what-the-heck-psexec/
 
+### <u>Cve-2021-40444 Azure Sentinel Detection</u>
+
+- https://github.com/Azure/Azure-Sentinel/blob/master/Detections/MultipleDataSources/MSHTMLVuln.yaml
+
+
 ## Windows
 - https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
 - https://www.forensicfocus.com/articles/hunting-for-attackers-tactics-and-techniques-with-prefetch-files/
